@@ -3,7 +3,7 @@ Hello, I'm Robert 👋
 I just finished the IBM Data Science Professional Certification and am building a data science portfolio here on github... currently under construction!
 
 ### Collected course assignments
-A [compilation of notebooks](https://gist.github.com/brt-h) uploaded as gitub gists as I worked my way through 10 courses covering python, data science tools, methodology, databases, SQL, visualization, analysis, and machine learning
+A [compilation of notebooks](https://gist.github.com/brt-h) uploaded as github gists as I worked my way through 10 courses covering python, data science tools, methodology, databases, SQL, visualization, analysis, and machine learning
 
 ### Falcon 9 1st Stage Booster Landing Prediction
 
