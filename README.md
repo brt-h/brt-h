@@ -5,6 +5,10 @@ I just finished the IBM Data Science Professional Certification and am building 
 ### Collected course assignments & coding practice problems
 A [compilation of notebooks](https://gist.github.com/brt-h) uploaded as github gists as I worked my way through 10 courses covering python, data science tools, methodology, databases, SQL, visualization, analysis, and machine learning. Since then I have been adding gists for problems I work through on hackerrank, edabit, leetcode, etc.
 
+### Forest Cover Kaggle Prediction
+
+Predict between 7 different classes of tree cover found in the Roosevelt National Forest of northern Colorado, using a training dataset consisting of 4 million labled samples with features like elevation, soil type, etc. This location is interesting because of minimal human-caused disturbances, so that existing forest cover types are more a result of ecological processes rather than forest management practices. Utilized Python and Pandas in jupyter notebook to test SGD, LSVC, XGB, CatB, and LGBM classifiers. Kaggle notebook is [here](https://www.kaggle.com/brthym/tps-dec-sgd-lsvc-xgb-catb-lgbm).
+
 ### Falcon 9 1st Stage Booster Landing Prediction
 
 Enabled a hypothetical competitor to make more informed bids against SpaceX by using 1st stage landing predictions as a proxy for the cost of a launch.
