@@ -1,9 +1,17 @@
 Hello, I'm Robert 👋
 
-I just finished the IBM Data Science Professional Certification and am building a data science portfolio here on github... currently under construction!
+## Welcome to my Data Science Portfolio
+
+I recently finished IBM Data Science Professional Certification (10-month program), and have been building a data science portfolio here on github... currently under construction!
+
+I'm currenty looking for work as a Data Analyst or similar, so if you've got an idea about me, or know of any good work opportunity that would be beneficial to me, please let me know!
 
 ### Collected course assignments & coding practice problems
 A [compilation of notebooks](https://gist.github.com/brt-h) uploaded as github gists as I worked my way through 10 courses covering python, data science tools, methodology, databases, SQL, visualization, analysis, and machine learning. Since then I have been adding gists for problems I work through on hackerrank, edabit, leetcode, etc.
+
+### AirBnB Tableau Dashboard
+
+The hypothetical use case for this dashboard is to help someone who is purchasing property in Seattle to rent on AirBnB. The focus of this dashboard is the relationships between AirBnB price and (1) zipcode, (2) # of bedrooms, and (3) week of the year. The dashboard can be seen [here](https://public.tableau.com/app/profile/robert.hyman/viz/AirBnBTableauProject_16414256273360/Dashboard1).
 
 ### Forest Cover Kaggle Prediction
 
