@@ -15,7 +15,7 @@ Illustrated the drag of inflation on stock market returns compared to Bitcoin. S
 
 ### AirBnB Tableau Dashboard
 
-The hypothetical use case for this dashboard is to help someone who is purchasing property in Seattle to rent on AirBnB. The focus of this dashboard is the relationships between AirBnB price and (1) zipcode, (2) # of bedrooms, and (3) week of the year. The dashboard can be seen [here](https://public.tableau.com/app/profile/robert.hyman/viz/AirBnBTableauProject_16414256273360/Dashboard1).
+The hypothetical use case for this dashboard is to help someone who is purchasing property in Seattle to rent on AirBnB. The focus of this dashboard is the relationships between AirBnB price and (1) zipcode, (2) # of bedrooms, and (3) week of the year. Dashboard is [here](https://public.tableau.com/app/profile/robert.hyman/viz/AirBnBTableauProject_16414256273360/Dashboard1).
 
 ### Forest Cover Kaggle Prediction
 
