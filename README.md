@@ -9,7 +9,7 @@ I'm currenty looking for work as a Data Analyst or similar, so if you've got an 
 ### Collected course assignments & coding practice problems
 A [compilation of 75+ notebooks](https://gist.github.com/brt-h) uploaded as github gists as I worked my way through 10 courses covering python, data science tools, methodology, databases, SQL, visualization, analysis, and machine learning. Since then I have been adding gists for problems I work through on hackerrank, edabit, leetcode, etc.
 
-### Hands on with Microsoft Excel VLOOKUP & Pivot Tables
+### Boomerang Store Microsoft Excel VLOOKUP & Pivot Tables
 
 Enabled a hypothetical Boomerang store to create invoices, track sales team perfromance, and create % change revenue reports. Utilized Excel funtionality such as VLOOKUP, MATCH, helper columns, IFERROR, pivot tables, slicers, group dates, show values as, and more -- with a 50,000 row dataset. Workbook can be viewed [here](https://1drv.ms/x/s!Am3cFNlVEot4sUJwCMNCiQ6Jcn0X?e=PZSVhu).
 
