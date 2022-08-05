@@ -4,7 +4,7 @@ Hello, I'm Robert 👋
 
 I recently finished IBM Data Science Professional Certification (10-month program), and have been building a data science portfolio here on github... currently under construction!
 
-I'm currenty looking for work as a Data Analyst or similar, so if you've got an idea about me, or know of any good work opportunity that would be beneficial to me, please let me know!
+I'm currently looking for work as a Data Analyst or similar, so if you've got an idea about me, or know of any good work opportunity that would be beneficial to me, please let me know!
 
 ### Collected course assignments & coding practice problems
 A [compilation of 75+ notebooks](https://gist.github.com/brt-h) uploaded as github gists as I worked my way through 10 courses covering python, data science tools, methodology, databases, SQL, visualization, analysis, and machine learning. Since then I have been adding gists for problems I work through on hackerrank, edabit, leetcode, etc.
