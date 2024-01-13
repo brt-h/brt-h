@@ -2,9 +2,17 @@ Hello, I'm Robert 👋
 
 ## Welcome to my Data Science Portfolio
 
-I recently finished IBM Data Science Professional Certification (10-month program), and have been building a data science portfolio here on github... currently under construction!
+I recently finished the IBM Data Science Professional Certification (10-month program), and have been building a data science portfolio here on github... currently a work in progress!
 
-I'm currently looking for work as a Data Analyst or similar, so if you've got an idea about me, or know of any good work opportunity that would be beneficial to me, please let me know!
+I'm an experienced account manager and dual major Economics & International Studies from UNC— who is passionate about helping people use data, crypto, and machine learning to create value and solve business problems.
+
+I'm currently looking for a new challenge— so if you've got an idea about me, or know of any good work opportunity that would be beneficial to me, please let me know!
+
+(ie: Technical Account Manager · Product Manager · Account Engineer · Sales Engineer · Software Engineer · Data Analyst · Data Scientist)
+
+### Picture Book Generator with AI
+
+Web application that uses AI to generate a picture book given user inputs, including a description (the main idea of the story) and the total number of pages. Frontend created with Next.js and hosted on Vercel. Backend API written in Python using libraries from LangChain, FastAPI, SSE-Starlette, and Boto3 (AWS)— and deployed to Fly.io using Docker containerization. Live demo, detailed readme, and source code is [here](https://github.com/brt-h/rotate-calvary#rotate-calvary).
 
 ### Collected course assignments & coding practice problems
 A [compilation of 75+ notebooks](https://gist.github.com/brt-h) uploaded as github gists as I worked my way through 10 courses covering python, data science tools, methodology, databases, SQL, visualization, analysis, and machine learning. Since then I have been adding gists for problems I work through on hackerrank, edabit, leetcode, etc.
