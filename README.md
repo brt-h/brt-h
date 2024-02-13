@@ -1,8 +1,8 @@
 Hello, I'm Robert 👋
 
-## Welcome to my Data Science Portfolio
+## Welcome to my Data Science / Backend Dev Portfolio
 
-I recently finished the IBM Data Science Professional Certification (10-month program), and have been building a data science portfolio here on github... currently a work in progress!
+I recently finished the IBM Data Science Professional Certification (10-month program), and have been building a portfolio here on github... currently a work in progress!
 
 I'm an experienced account manager and dual major Economics & International Studies from UNC— who is passionate about helping people use data, crypto, and machine learning to create value and solve business problems.
 
