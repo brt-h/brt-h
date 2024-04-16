@@ -48,7 +48,7 @@ Tested four different machine learning models to see which would most accurately
 Used provided dataset of home sales in King County, USA between May 2014 and May 2015 to practice data analysis. Jupyter notebook is [here](https://gist.github.com/brt-h/a7b5dd74a8fcd2e718a5cde7cf9147ab).
 
 ### Extracting and visualizing stock data
-Used yfinance and webscraping to extract stock data then visualize it using Plotly. Utilizedd Python, Pandas, BeautifulSoup, and Plotly. Jupyter notebook is [here](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/5937dca4-8cdb-41d5-8ab0-25134f6f4945/view?access_token=9ebd45117d303eb29148c8c7859894ebc6f0457e9bd0a76d5ae077db1f8ad41d).
+Used yfinance and webscraping to extract stock data then visualize it using Plotly. Utilized Python, Pandas, BeautifulSoup, and Plotly. Jupyter notebook is [here](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/5937dca4-8cdb-41d5-8ab0-25134f6f4945/view?access_token=9ebd45117d303eb29148c8c7859894ebc6f0457e9bd0a76d5ae077db1f8ad41d).
 
 
 <!---
