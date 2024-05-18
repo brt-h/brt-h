@@ -10,11 +10,14 @@ I'm currently looking for a new challenge— so if you've got an idea about me, 
 
 (ie: Technical Account Manager · Product Manager · Account Engineer · Sales Engineer · Software Engineer · Data Analyst · Data Scientist)
 
+### Mouse Click Accuracy Refinement for AI Vision Models
+Under construction... Python library to for general purpose mouse click accuracy improvement for AI vision models such as GPT-4v, Gemini Pro Vision, Claude 3 and LLaVa. Source code [here](https://github.com/dpeterzen/click-refiner).
+
 ### Picture Book Generator with AI
 
 Web application that uses AI to generate a picture book given user inputs, including a description (the main idea of the story) and the total number of pages. Frontend created with Next.js and hosted on Vercel. Backend API written in Python using libraries from LangChain, FastAPI, SSE-Starlette, and Boto3 (AWS)— and deployed to Fly.io using Docker containerization. Live demo, detailed readme, and source code [here](https://github.com/brt-h/rotate-calvary#rotate-calvary).
 
-### Collected course assignments & coding practice problems
+### Collected Course Assignments & Coding Practice Problems
 A [compilation of 75+ notebooks](https://gist.github.com/brt-h) uploaded as github gists as I worked my way through 10 courses covering python, data science tools, methodology, databases, SQL, visualization, analysis, and machine learning. Since then I have been adding gists for problems I work through on hackerrank, edabit, leetcode, etc.
 
 ### Boomerang Store Microsoft Excel VLOOKUP & Pivot Tables
